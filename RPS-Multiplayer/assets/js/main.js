@@ -1,7 +1,7 @@
 var rPs = {
     //firebase config info
     config : {
-        apiKey: "AIzaSyDUeIymic_2E-_TT8r36nY4BkREZD2S8VU",
+        apiKey: "",
         authDomain: "rockpapersci.firebaseapp.com",
         databaseURL: "https://rockpapersci.firebaseio.com",
         projectId: "rockpapersci",
